@@ -1,0 +1,34 @@
+{"movies": [
+    {
+        "overview": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "year": 1994,
+        "director": "Quentin Tarantino",
+        "imdbVoteCount": 1826188,
+        "star4": "Bruce Willis",
+        "runtime": 154,
+        "imdbRating": 8.9,
+        "star2": "Uma Thurman",
+        "star3": "Samuel L. Jackson",
+        "title": "Pulp Fiction",
+        "userRating": -1,
+        "star1": "John Travolta",
+        "genre": "Crime, Drama",
+        "id": 6
+    },
+    {
+        "overview": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+        "year": 2010,
+        "director": "Christopher Nolan",
+        "imdbVoteCount": 2067042,
+        "star4": "Ken Watanabe",
+        "runtime": 148,
+        "imdbRating": 8.8,
+        "star2": "Joseph Gordon-Levitt",
+        "star3": "Elliot Page",
+        "title": "Inception",
+        "userRating": -1,
+        "star1": "Leonardo DiCaprio",
+        "genre": "Action, Adventure, Sci-Fi",
+        "id": 8
+    }
+]}
